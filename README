@@ -1,0 +1,9 @@
+checkLineChart
+checkPieChart
+exceptionCard
+noExceptionCard
+> dashboard sivun widgettejä <
+page.tsx
+> dsahboard sivu <
+checks.ts
+> logikka joka tuo ja tarkistaa tietokannasta tulevaa tietoa <
