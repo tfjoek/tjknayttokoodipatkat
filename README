@@ -7,3 +7,7 @@ page.tsx
 > dsahboard sivu <
 checks.ts
 > logikka joka tuo ja tarkistaa tietokannasta tulevaa tietoa <
+testcode.tsx
+>lue<
+[unitcode] page.tsx
+> detailed car page <
